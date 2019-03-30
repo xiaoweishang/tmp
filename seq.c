@@ -29,7 +29,7 @@
 #include "util.h"
 
 #define LEN						(64UL)
-#define WORKER_NUM				(2UL)
+#define WORKER_NUM				(1UL)
 #define THREAD1_SIZE			(1)
 
 struct fill {

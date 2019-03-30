@@ -30,7 +30,7 @@
 
 #define LEN						(64UL)
 #define WORKER_NUM				(1UL)
-#define THREAD1_SIZE			(1)
+#define THREAD1_SIZE			(5)
 
 struct fill {
 	char str[LEN];	//64 bytes
